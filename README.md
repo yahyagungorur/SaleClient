@@ -1,5 +1,6 @@
 # SaleClient
 Android Client
+C Server : https://github.com/yahyagungorur/SaleServer
 
 SaleClient.apk and SaleServer.exe
    This is a client sale applicaiton, which works syncronized with SaleServer application. 
